@@ -1,0 +1,17 @@
+flask
+flask-sqlalchemy
+flask-migrate
+flask-jwt-extended
+flask-cors
+psycopg2-binary
+python-dotenv
+requests
+feedparser
+gunicorn
+torch
+gymnasium
+stable-baselines3
+numpy
+pandas
+scikit-learn
+trafilatura

@@ -1,0 +1,14 @@
+{
+  "_about": "Curated nicknames and abbreviations that Zambian media use for public figures, which Wikidata often lacks. Matched by the person's full name (as on Wikidata/Wikipedia) when the person is first added. Short forms are always treated as ambiguous: they are only hyperlinked when the article is about Zambia or also names the person in full. Add entries here or through POST /api/admin/people/<id>/aliases.",
+  "people": [
+    {"name": "Hakainde Hichilema", "aliases": ["HH", "Bally"]},
+    {"name": "Edgar Lungu", "aliases": ["ECL", "Edgar Chagwa Lungu"]},
+    {"name": "Kenneth Kaunda", "aliases": ["KK", "Super Ken"]},
+    {"name": "Frederick Chiluba", "aliases": ["FTJ", "FTJ Chiluba", "Frederick Titus Jacob Chiluba"]},
+    {"name": "Levy Mwanawasa", "aliases": ["LPM", "Levy Patrick Mwanawasa"]},
+    {"name": "Rupiah Banda", "aliases": ["RB", "Rupiah Bwezani Banda"]},
+    {"name": "Michael Sata", "aliases": ["King Cobra", "Michael Chilufya Sata"]},
+    {"name": "Mutale Nalumango", "aliases": ["Mutale Nalumango"]},
+    {"name": "Guy Scott", "aliases": ["Guy Lindsay Scott"]}
+  ]
+}

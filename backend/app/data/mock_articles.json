@@ -1,0 +1,284 @@
+{
+  "politics": [
+    {
+      "title": "Zambian Parliament Debates New Local Governance Bill",
+      "description": "Lawmakers reviewed proposed reforms to decentralize budget authority to district councils.",
+      "content": "The bill, if passed, would shift a portion of infrastructure spending decisions to district-level councils, a move supporters say improves responsiveness to local needs while critics warn of uneven implementation capacity across provinces.",
+      "url": "https://example.com/mock/politics/1",
+      "urlToImage": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=800",
+      "source": {"name": "Lusaka Herald"},
+      "publishedAt": "2026-09-08T09:15:00Z"
+    },
+    {
+      "title": "Regional Bloc Holds Summit on Cross-Border Trade Policy",
+      "description": "Southern African leaders met to discuss harmonizing customs procedures.",
+      "content": "Delegates focused on reducing clearance times at major border posts, citing recent studies showing delays cost regional exporters significant revenue annually.",
+      "url": "https://example.com/mock/politics/2",
+      "urlToImage": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "source": {"name": "Continental Wire"},
+      "publishedAt": "2026-09-07T14:30:00Z"
+    },
+    {
+      "title": "Electoral Commission Announces Voter Registration Timeline",
+      "description": "New registration centers to open in underserved constituencies ahead of by-elections.",
+      "content": "Officials said the expanded registration drive targets rural constituencies where turnout has historically lagged national averages.",
+      "url": "https://example.com/mock/politics/3",
+      "urlToImage": "https://images.unsplash.com/photo-1494172961521-33799ddd43a5?w=800",
+      "source": {"name": "Lusaka Herald"},
+      "publishedAt": "2026-09-06T11:00:00Z"
+    },
+    {
+      "title": "Opposition Coalition Proposes Public Sector Wage Review",
+      "description": "Joint statement calls for renegotiation of civil servant pay scales.",
+      "content": "The coalition argues wage adjustments have not kept pace with inflation, while the finance ministry says any review must account for the current fiscal deficit.",
+      "url": "https://example.com/mock/politics/4",
+      "urlToImage": "https://images.unsplash.com/photo-1591189863430-ab87e120f312?w=800",
+      "source": {"name": "Continental Wire"},
+      "publishedAt": "2026-09-05T08:45:00Z"
+    },
+    {
+      "title": "Constitutional Court Sets Date for Land Rights Case",
+      "description": "Long-running dispute over customary land allocation to reach final hearing.",
+      "content": "The case, watched closely by traditional leaders and investors alike, could reshape how customary land is converted for commercial use.",
+      "url": "https://example.com/mock/politics/5",
+      "urlToImage": "https://images.unsplash.com/photo-1589994965851-a8f479c573a4?w=800",
+      "source": {"name": "Lusaka Herald"},
+      "publishedAt": "2026-09-04T16:20:00Z"
+    }
+  ],
+  "economics": [
+    {
+      "title": "Central Bank Holds Interest Rate Amid Inflation Concerns",
+      "description": "Policymakers cite currency stability as key factor in decision.",
+      "content": "The monetary policy committee kept the benchmark rate unchanged, noting that recent currency stability has helped ease imported inflation pressures.",
+      "url": "https://example.com/mock/economics/1",
+      "urlToImage": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "source": {"name": "Market Desk Africa"},
+      "publishedAt": "2026-09-08T07:00:00Z"
+    },
+    {
+      "title": "Copper Exports Rise on Higher Global Demand",
+      "description": "Mining sector output climbs for third consecutive quarter.",
+      "content": "Analysts attribute the increase to renewed demand from electronics manufacturing hubs, though they caution the rally may be short-lived given global supply additions.",
+      "url": "https://example.com/mock/economics/2",
+      "urlToImage": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=800",
+      "source": {"name": "Continental Wire"},
+      "publishedAt": "2026-09-07T10:10:00Z"
+    },
+    {
+      "title": "Small Business Lending Program Expands to Rural Areas",
+      "description": "New credit guarantee scheme aims to unlock financing outside major cities.",
+      "content": "The program partners with local cooperatives to vet borrowers, addressing a longstanding gap in collateral requirements that excluded many rural entrepreneurs.",
+      "url": "https://example.com/mock/economics/3",
+      "urlToImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800",
+      "source": {"name": "Market Desk Africa"},
+      "publishedAt": "2026-09-06T13:25:00Z"
+    },
+    {
+      "title": "Global Markets Steady as Investors Await Jobs Data",
+      "description": "Equity indices trade in a narrow range ahead of key economic release.",
+      "content": "Traders are positioning cautiously, with several major indices holding close to opening levels through midday trading.",
+      "url": "https://example.com/mock/economics/4",
+      "urlToImage": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "source": {"name": "Global Ledger"},
+      "publishedAt": "2026-09-05T18:00:00Z"
+    },
+    {
+      "title": "Youth Unemployment Report Sparks Policy Debate",
+      "description": "New figures show mixed progress across provinces.",
+      "content": "Economists point to vocational training gaps as a persistent bottleneck, even as urban formal-sector hiring shows modest improvement.",
+      "url": "https://example.com/mock/economics/5",
+      "urlToImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800",
+      "source": {"name": "Market Desk Africa"},
+      "publishedAt": "2026-09-04T09:40:00Z"
+    }
+  ],
+  "technology": [
+    {
+      "title": "Local Startups Pitch Agri-Tech Solutions at Regional Demo Day",
+      "description": "Founders showcased tools for soil monitoring and market-price forecasting.",
+      "content": "Investors in attendance said interest in agri-tech has grown steadily as smallholder farmers gain smartphone access, creating a viable distribution channel for these tools.",
+      "url": "https://example.com/mock/technology/1",
+      "urlToImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "source": {"name": "TechPulse News"},
+      "publishedAt": "2026-09-08T12:00:00Z"
+    },
+    {
+      "title": "New Data Protection Guidelines Released for Fintech Sector",
+      "description": "Regulator outlines requirements for handling customer financial data.",
+      "content": "The guidelines set minimum encryption and breach-notification standards, aligning more closely with international data protection norms.",
+      "url": "https://example.com/mock/technology/2",
+      "urlToImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800",
+      "source": {"name": "TechPulse News"},
+      "publishedAt": "2026-09-07T15:45:00Z"
+    },
+    {
+      "title": "Open-Source Model Release Lowers Barrier for Local AI Research",
+      "description": "Research lab publishes lightweight model weights for low-resource languages.",
+      "content": "Researchers say the release could accelerate work on speech and translation tools for languages that have historically had little digital representation.",
+      "url": "https://example.com/mock/technology/3",
+      "urlToImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "source": {"name": "Global Tech Wire"},
+      "publishedAt": "2026-09-06T08:30:00Z"
+    },
+    {
+      "title": "Mobile Network Operator Expands 4G Coverage to Border Towns",
+      "description": "Rollout targets areas previously reliant on 2G connectivity.",
+      "content": "The operator says the expansion is part of a broader push to close the rural-urban digital divide within the next two years.",
+      "url": "https://example.com/mock/technology/4",
+      "urlToImage": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=800",
+      "source": {"name": "TechPulse News"},
+      "publishedAt": "2026-09-05T11:15:00Z"
+    },
+    {
+      "title": "University Launches Postgraduate Program in Data Science",
+      "description": "New curriculum designed with input from regional tech employers.",
+      "content": "Program coordinators said the curriculum was built around skills gaps identified through interviews with employers across the finance and telecom sectors.",
+      "url": "https://example.com/mock/technology/5",
+      "urlToImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800",
+      "source": {"name": "Global Tech Wire"},
+      "publishedAt": "2026-09-04T14:00:00Z"
+    }
+  ],
+  "global-affairs": [
+    {
+      "title": "United Nations Session Focuses on Climate Financing Gap",
+      "description": "Delegates debate mechanisms for funding adaptation in vulnerable regions.",
+      "content": "Several delegations pressed for clearer timelines on previously pledged climate finance, arguing that delays are compounding risks for low-lying and drought-prone regions.",
+      "url": "https://example.com/mock/global/1",
+      "urlToImage": "https://images.unsplash.com/photo-1526976668912-1a811878dd37?w=800",
+      "source": {"name": "Global Affairs Desk"},
+      "publishedAt": "2026-09-08T06:20:00Z"
+    },
+    {
+      "title": "Trade Negotiators Resume Talks on Regional Tariff Reductions",
+      "description": "Multi-country framework aims to phase out tariffs on select goods.",
+      "content": "Negotiators described the latest round as constructive, though disagreements remain over transition timelines for sensitive agricultural products.",
+      "url": "https://example.com/mock/global/2",
+      "urlToImage": "https://images.unsplash.com/photo-1524578271613-d550eacf6090?w=800",
+      "source": {"name": "Global Affairs Desk"},
+      "publishedAt": "2026-09-07T09:50:00Z"
+    },
+    {
+      "title": "Humanitarian Agencies Scale Up Response in Flood-Affected Areas",
+      "description": "Coordinated relief effort focuses on shelter and clean water access.",
+      "content": "Agencies on the ground report that access roads remain a major constraint, slowing delivery of supplies to the hardest-hit communities.",
+      "url": "https://example.com/mock/global/3",
+      "urlToImage": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800",
+      "source": {"name": "World Bulletin"},
+      "publishedAt": "2026-09-06T17:10:00Z"
+    },
+    {
+      "title": "Diplomatic Talks Aim to Ease Tensions Over Shared Waterway",
+      "description": "Neighboring states seek framework for joint resource management.",
+      "content": "Both sides described the talks as a first step toward a longer-term agreement on water allocation and hydropower development.",
+      "url": "https://example.com/mock/global/4",
+      "urlToImage": "https://images.unsplash.com/photo-1451187863213-d1bcbaae3fa3?w=800",
+      "source": {"name": "World Bulletin"},
+      "publishedAt": "2026-09-05T13:35:00Z"
+    },
+    {
+      "title": "International Health Body Issues Updated Travel Guidance",
+      "description": "New recommendations reflect changing regional disease surveillance data.",
+      "content": "The guidance updates precautionary measures for travelers to a handful of regions currently reporting elevated case counts.",
+      "url": "https://example.com/mock/global/5",
+      "urlToImage": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?w=800",
+      "source": {"name": "Global Affairs Desk"},
+      "publishedAt": "2026-09-04T10:05:00Z"
+    }
+  ],
+  "sports": [
+    {
+      "title": "National Football Team Names Squad for Regional Qualifiers",
+      "description": "Coach opts for blend of experienced players and new call-ups.",
+      "content": "The coaching staff said squad depth in midfield was the priority heading into a tightly packed qualifying schedule.",
+      "url": "https://example.com/mock/sports/1",
+      "urlToImage": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800",
+      "source": {"name": "SportsLine Africa"},
+      "publishedAt": "2026-09-08T18:00:00Z"
+    },
+    {
+      "title": "Local Athlete Sets New Regional Record in 400m",
+      "description": "Performance puts athlete in contention for international meet selection.",
+      "content": "Coaches say the result reflects a training block focused specifically on race-pace endurance over the second half of the distance.",
+      "url": "https://example.com/mock/sports/2",
+      "urlToImage": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800",
+      "source": {"name": "SportsLine Africa"},
+      "publishedAt": "2026-09-07T16:40:00Z"
+    },
+    {
+      "title": "Basketball League Announces Expanded Season Format",
+      "description": "New structure adds playoff round and extends regular season.",
+      "content": "League officials say the change is meant to increase the number of competitive fixtures and boost broadcast revenue.",
+      "url": "https://example.com/mock/sports/3",
+      "urlToImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=800",
+      "source": {"name": "Continental Sports Wire"},
+      "publishedAt": "2026-09-06T12:15:00Z"
+    },
+    {
+      "title": "Youth Academy Graduates Sign First Professional Contracts",
+      "description": "Three players promoted from the youth setup to the senior squad.",
+      "content": "Club officials pointed to the promotions as validation of recent investment in academy coaching infrastructure.",
+      "url": "https://example.com/mock/sports/4",
+      "urlToImage": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?w=800",
+      "source": {"name": "SportsLine Africa"},
+      "publishedAt": "2026-09-05T09:25:00Z"
+    },
+    {
+      "title": "Marathon Draws Record Number of International Entrants",
+      "description": "Organizers cite improved course logistics for the jump in registrations.",
+      "content": "This year's route was adjusted to reduce congestion at the midway aid stations after feedback from previous editions.",
+      "url": "https://example.com/mock/sports/5",
+      "urlToImage": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800",
+      "source": {"name": "Continental Sports Wire"},
+      "publishedAt": "2026-09-04T07:50:00Z"
+    }
+  ],
+  "health": [
+    {
+      "title": "Health Ministry Expands Rural Clinic Staffing Program",
+      "description": "Initiative aims to reduce travel distances for basic maternal care.",
+      "content": "Officials say the program prioritizes districts with the longest average travel times to the nearest staffed health facility.",
+      "url": "https://example.com/mock/health/1",
+      "urlToImage": "https://images.unsplash.com/photo-1584982751601-97dcc096659c?w=800",
+      "source": {"name": "HealthWatch Today"},
+      "publishedAt": "2026-09-08T08:00:00Z"
+    },
+    {
+      "title": "Study Links Air Quality Improvements to Fewer Respiratory Cases",
+      "description": "Researchers tracked hospital admissions across two monitoring periods.",
+      "content": "The study's authors caution that other seasonal factors could partly explain the trend, and recommend a longer follow-up period.",
+      "url": "https://example.com/mock/health/2",
+      "urlToImage": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800",
+      "source": {"name": "HealthWatch Today"},
+      "publishedAt": "2026-09-07T11:20:00Z"
+    },
+    {
+      "title": "Vaccination Drive Reaches Milestone in Coverage Targets",
+      "description": "Health officials report steady uptake across targeted age groups.",
+      "content": "Community health workers say door-to-door outreach was key to reaching households in areas with historically lower uptake.",
+      "url": "https://example.com/mock/health/3",
+      "urlToImage": "https://images.unsplash.com/photo-1632053001891-a92c5a1a44a0?w=800",
+      "source": {"name": "Global Health Wire"},
+      "publishedAt": "2026-09-06T15:00:00Z"
+    },
+    {
+      "title": "Nutrition Program Targets Early Childhood Development",
+      "description": "New guidelines emphasize first-1000-days feeding practices.",
+      "content": "The program pairs clinic visits with take-home supplementary feeding kits for families identified as at higher nutritional risk.",
+      "url": "https://example.com/mock/health/4",
+      "urlToImage": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "source": {"name": "HealthWatch Today"},
+      "publishedAt": "2026-09-05T10:30:00Z"
+    },
+    {
+      "title": "Mental Health Awareness Campaign Launches in Universities",
+      "description": "Campaign pairs peer counseling with referral pathways to clinical care.",
+      "content": "Organizers say the peer-support component was designed specifically to reduce the stigma students associated with seeking formal counseling services.",
+      "url": "https://example.com/mock/health/5",
+      "urlToImage": "https://images.unsplash.com/photo-1591343395902-1adc9b1c6f4c?w=800",
+      "source": {"name": "Global Health Wire"},
+      "publishedAt": "2026-09-04T13:45:00Z"
+    }
+  ]
+}
